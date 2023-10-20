@@ -19,7 +19,7 @@ Audio samples: [https://styletts2.github.io/](https://styletts2.github.io/)
 1. Python >= 3.7
 2. Clone this repository:
 ```bash
-git clone https://github.com/yl4579/StyleTTS2.git
+https://github.com/NewKcriss/StyleTTS2.git
 cd StyleTTS2
 ```
 3. Install python requirements: 
